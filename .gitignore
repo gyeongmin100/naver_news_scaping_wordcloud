@@ -1,0 +1,13 @@
+chromedriver.exe
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+
+# Images (ignore all)
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# But allow this one image
+!쿠팡wordcloud.png
